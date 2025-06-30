@@ -1,0 +1,1412 @@
+[ 
+    {
+        "id": 1,
+        "name": "Paded Spensor",
+        "price": "₹270.00",
+        "images": [
+            "images/Undergarments/b1.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+    {
+        "id": 2,
+        "name": "Roobel Select",
+        "price": "₹150.00",
+        "images": [
+            "images/Undergarments/b2.jpg"
+        ],
+        "category": "Accessories",
+        "isTrending":true,
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+    {
+        "id": 3,
+        "name": "Shringar Cross C ",
+        "price": "₹275.00",
+        "images": [
+            "images/Undergarments/b3.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+    {
+        "id": 4,
+        "name": "Shringar Charmis",
+        "price": "₹155.00",
+        "images": [
+            "images/Undergarments/b4.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+    {
+        "id": 5,
+        "name": "Shringar Mother",
+        "price": "₹210.00",
+        "images": [
+            "images/Undergarments/b5.jpg"
+        ],
+        "category": "Accessories",
+        "isTrending": true,
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+    {
+        "id": 6,
+        "name": "Shringar Shanaya D",
+        "price": "₹2100.00",
+        "images": [
+            "images/Undergarments/b6.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+    {
+        "id": 7,
+        "name": "Shringar Selena D",
+        "price": "₹580.00",
+        "images": [
+            "images/Undergarments/b7.jpg"
+        ],
+        "category": "Accessories",
+        "isTrending": true,
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+    {
+        "id": 8,
+        "name": "Shringar Silky",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b8.jpg"
+        ],
+        "category": "Accessories",
+        "isTrending": true,
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+    {
+        "id": 9,
+        "name": "Shringar Chinky C ",
+        "price": "₹225.00",
+        "images": [
+            "images/Undergarments/b9.jpg"
+        ],
+        "category": "Accessories",
+        "isTrending": true,
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+    {
+        "id": 10,
+        "name": "Shringar Natasha ",
+        "price": "₹265.00",
+        "images": [
+            "images/Undergarments/b10.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+    {
+        "id": 11,
+        "name": "Shringar Brown Bra",
+        "price": "₹369.00",
+        "images": [
+            "images/Undergarments/b11.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+    {
+        "id": 12,
+        "name": "Shringar Silky ",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b12.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+       {
+        "id":  42,
+        "name": "Shringar Clovia",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b13.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 43,
+        "name": "Shringar Intima",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b14.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 44,
+        "name": "Shringar Sweety",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b15.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 45,
+        "name": "Shringar Intimack C Cup",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b16.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 46,
+        "name": "Shringar Curve",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b17.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 47,
+        "name": "Shringar Dhoom",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b18.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 48,
+        "name": "Shringar Samanta",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b19.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 49,
+        "name": "Shringar Santro",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b20.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 50,
+        "name": "Shringar T-Back",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b21.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 51,
+        "name": "Shringar Silky",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b22.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 52,
+        "name": "Shringar Gym ",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b23.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 53,
+        "name": "Shringar Sarangi",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b24.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 54,
+        "name": "Shringar Natasha",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b25.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 55,
+        "name": "Shringar Alliya",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b26.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 56,
+        "name": "Shringar Leafy",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b27.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 57,
+        "name": "Shringar Stacy",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b28.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 58,
+        "name": "Shringar Tinycare C-cup",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b29.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 59,
+        "name": "Shringar Pushup",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b30.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 60,
+        "name": "Shringar Stella",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b31.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 61,
+        "name": "Shringar Spicy",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b32.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 62,
+        "name": "Shringar Salwar C-cup",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b33.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 63,
+        "name": "Shringar Savali",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b34.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 64,
+        "name": "Shringar Titanic_Adj",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b35.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },  {
+        "id": 65,
+        "name": "Shringar Vyavam",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b36.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 65,
+        "name": "Shringar Calvin",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b37.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 66,
+        "name": "Shringar Alpa C-cup",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b38.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 67,
+        "name": "Shringar Juliet",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b39.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 68,
+        "name": "Shringar Tamanna",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b40.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 69,
+        "name": "Shringar Chinky C",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b41.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 70,
+        "name": "Shringar dilse",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b42.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 71,
+        "name": "Shringar Zoey Lycra",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b43.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },  {
+        "id": 72,
+        "name": "Shringar Symphony",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b44.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 73,
+        "name": "Shringar Rose",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b45.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },  {
+        "id": 74,
+        "name": "Shringar Savali",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b46.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },  {
+        "id": 75,
+        "name": "Shringar Showoff",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b47.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },  {
+        "id": 76,
+        "name": "Shringar Pearl",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b48.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },  {
+        "id": 77,
+        "name": "Shringar Shanaya D-cup",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b49.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },  {
+        "id": 78,
+        "name": "Shringar Scerlett",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b50.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 79,
+        "name": "Shringar Kareena",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b51.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 80,
+        "name": "Shringar Bulbul",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b52.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+      {
+        "id": 80,
+        "name": "Shringar Cuite_Adj",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b53.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },  {
+        "id": 80,
+        "name": "Shringar Swiggy",
+        "price": "₹355.00",
+        "images": [
+            "images/Undergarments/b54.jpg"
+        ],
+        "category": "Accessories",
+        "description": "This classic bra combines everyday comfort with timeless support, offering a flattering fit for all body types. Designed to blend seamlessly under clothing, it delivers both functionality and elegance, making it a wardrobe essential for any occasion."
+    },
+     {
+        "id": 81,
+        "name": "Shringar Saloni inner (3pcs set)",
+        "price": "₹354.00",
+        "images": [
+            "images/Undergarments/a1.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 82,
+        "name": "Shringar Leo (3pcs set)",
+        "price": "₹360.00",
+        "images": [
+            "images/Undergarments/a2.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 83,
+        "name": "Shringar Heena (3pcs set)",
+        "price": "₹366.00",
+        "images": [
+            "images/Undergarments/a3.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 84,
+        "name": "Shringar Creta (3pcs set)",
+        "price": "₹366.00",
+        "images": [
+            "images/Undergarments/a4.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 85,
+        "name": "Shringar Dollar (3pcs set)",
+        "price": "₹345.00",
+        "images": [
+            "images/Undergarments/a5.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 86,
+        "name": "Shringar Lily Model-4 (3pcs set)",
+        "price": "₹540.00",
+        "images": [
+            "images/Undergarments/a6.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 87,
+        "name": "Shringar Jolly (3pcs set)",
+        "price": "₹369.00",
+        "images": [
+            "images/Undergarments/a7.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 88,
+        "name": "Shringar 6024 (3pcs set)",
+        "price": "₹345.00",
+        "images": [
+            "images/Undergarments/a8.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 89,
+        "name": "Shringar 6322 (3pcs set)",
+        "price": "₹393.00",
+        "images": [
+            "images/Undergarments/a9.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 90,
+        "name": "Shringar Kalika (3pcs set)",
+        "price": "₹375.00",
+        "images": [
+            "images/Undergarments/a10.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 91,
+        "name": "Shringar Jasmine (3pcs set)",
+        "price": "₹450.00",
+        "images": [
+            "images/Undergarments/a11.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 92,
+        "name": "Shringar Cellinar (3pcs set)",
+        "price": "₹462.00",
+        "images": [
+            "images/Undergarments/a12.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 93,
+        "name": "Shringar Krutica Modal Print (3pcs set)",
+        "price": "₹465.00",
+        "images": [
+            "images/Undergarments/a13.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 94,
+        "name": "Shringar Anjel (3pcs set)",
+        "price": "₹360.00",
+        "images": [
+            "images/Undergarments/a14.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 95,
+        "name": "Shringar 7783 (3pcs set)",
+        "price": "₹444.00",
+        "images": [
+            "images/Undergarments/a15.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 96,
+        "name": "Shringar MonaLika (3pcs set)",
+        "price": "₹456.00",
+        "images": [
+            "images/Undergarments/a16.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 97,
+        "name": "Shringar Bikni (3pcs set)",
+        "price": "₹330.00",
+        "images": [
+            "images/Undergarments/a17.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 98,
+        "name": "Shringar Lycra (3pcs set)",
+        "price": "₹420.00",
+        "images": [
+            "images/Undergarments/a18.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 99,
+        "name": "Shringar 5600 (3pcs set)",
+        "price": "₹351.00",
+        "images": [
+            "images/Undergarments/a19.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 100,
+        "name": "Shringar Kaajal (3pcs set)",
+        "price": "₹378.00",
+        "images": [
+            "images/Undergarments/a20.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 101,
+        "name": "Shringar Modal Shorty (3pcs set)",
+        "price": "₹597.00",
+        "images": [
+            "images/Undergarments/a21.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 102,
+        "name": "Shringar Bonbed Lykra (3pcs set)",
+        "price": "₹735.00",
+        "images": [
+            "images/Undergarments/a22.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 103,
+        "name": "Shringar Sonali (3pcs set)",
+        "price": "₹369.00",
+        "images": [
+            "images/Undergarments/a23.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 104,
+        "name": "Shringar Oxy (3pcs set)",
+        "price": "₹450.00",
+        "images": [
+            "images/Undergarments/a24.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    }, {
+        "id": 105,
+        "name": "Shringar Shine (3pcs set)",
+        "price": "₹555.00",
+        "images": [
+            "images/Undergarments/a25.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 106,
+        "name": "Shringar Milton Lykra (3pcs set)",
+        "price": "₹435.00",
+        "images": [
+            "images/Undergarments/a26.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 107,
+        "name": "Shringar Dolphine (3pcs set)",
+        "price": "₹465.00",
+        "images": [
+            "images/Undergarments/a27.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 108,
+        "name": "Shringar joya (3pcs set)",
+        "price": "₹369.00",
+        "images": [
+            "images/Undergarments/a28.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 109,
+        "name": "Shringar Kashish (3pcs set)",
+        "price": "₹372.00",
+        "images": [
+            "images/Undergarments/a29.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 110,
+        "name": "Shringar 7973 (3pcs set)",
+        "price": "₹456.00",
+        "images": [
+            "images/Undergarments/a30.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 111,
+        "name": "Shringar Bobby (3pcs set)",
+        "price": "₹342.00",
+        "images": [
+            "images/Undergarments/a31.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 112,
+        "name": "Shringar Leena (3pcs set)",
+        "price": "₹360.00",
+        "images": [
+            "images/Undergarments/a32.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 113,
+        "name": "Shringar Denim (3pcs set)",
+        "price": "₹453.00",
+        "images": [
+            "images/Undergarments/a33.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 114,
+        "name": "Shringar Denim (3pcs set)",
+        "price": "₹270.00",
+        "images": [
+            "images/Undergarments/a34.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 115,
+        "name": "Shringar Lykra (3pcs set)",
+        "price": "₹465.00",
+        "images": [
+            "images/Undergarments/a35.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 116,
+        "name": "Shringar You (3pcs set)",
+        "price": "₹522.00",
+        "images": [
+            "images/Undergarments/a36.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 117,
+        "name": "Shringar 6374 (3pcs set)",
+        "price": "₹363.00",
+        "images": [
+            "images/Undergarments/a37.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 118,
+        "name": "Shringar 6326 (3pcs set)",
+        "price": "₹363.00",
+        "images": [
+            "images/Undergarments/a38.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 119,
+        "name": "Shringar Juhy (3pcs set)",
+        "price": "₹336.00",
+        "images": [
+            "images/Undergarments/a39.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 120,
+        "name": "Shringar Creta (3pcs set)",
+        "price": "₹366.00",
+        "images": [
+            "images/Undergarments/a40.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 121,
+        "name": "Shringar Sameera (3pcs set)",
+        "price": "₹450.00",
+        "images": [
+            "images/Undergarments/a41.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 122,
+        "name": "Shringar Prisha (3pcs set)",
+        "price": "₹450.00",
+        "images": [
+            "images/Undergarments/a42.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 123,
+        "name": "Shringar Disha (3pcs set)",
+        "price": "₹375.00",
+        "images": [
+            "images/Undergarments/a43.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 124,
+        "name": "Shringar Amisha (3pcs set)",
+        "price": "₹381.00",
+        "images": [
+            "images/Undergarments/a44.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 125,
+        "name": "Shringar Shabnam (3pcs set)",
+        "price": "₹360.00",
+        "images": [
+            "images/Undergarments/a45.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 126,
+        "name": "Shringar Dollar (3pcs set)",
+        "price": "₹345.00",
+        "images": [
+            "images/Undergarments/a46.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 127,
+        "name": "Shringar Natasha (3pcs set)",
+        "price": "₹360.00",
+        "images": [
+            "images/Undergarments/a47.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 128,
+        "name": "Shringar Shamita (3pcs set)",
+        "price": "₹405.00",
+        "images": [
+            "images/Undergarments/a48.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+     {
+        "id": 129,
+        "name": "Shringar Mansy (3pcs set)",
+        "price": "₹360.00",
+        "images": [
+            "images/Undergarments/a49.png"
+        ],
+        "category": "Accessories",
+        "description": "This 3-piece panty set blends comfort, style, and everyday practicality. Crafted with soft, breathable fabric and designed to move with you, each pair offers a flattering fit and all-day ease. With a perfect mix of colors and timeless cuts, it’s a must-have set for your top-drawer essentials."
+    },
+
+    {
+        "id": 13,
+        "name": "Baby Doll (2 Pcs)",
+        "price": "₹1299.00",
+        "images": [
+            "images/Babydoll/n1.png"
+        ],
+        "category": "Bags",
+        "description": "Elevate your eveningwear with this luxe satin and lace ensemble—where sensual design meets elegant sophistication. The flowing silhouette, delicate lace accents, and sultry slit create a look that effortlessly turns heads, whether you're at a dinner party or lounging in style. Available in a 3-piece set to complete your look with confidence and grace"
+    },
+    {
+        "id": 14,
+        "name": "Baby Doll (2 Pcs)",
+        "price": "₹1299.00",
+        "images": [
+            "images/Babydoll/n2.png"
+        ],
+        "category": "Bags",
+        "description": "Elevate your eveningwear with this luxe satin and lace ensemble—where sensual design meets elegant sophistication. The flowing silhouette, delicate lace accents, and sultry slit create a look that effortlessly turns heads, whether you're at a dinner party or lounging in style. Available in a 3-piece set to complete your look with confidence and grace"
+    },
+     {
+        "id": 33,
+        "name": "Baby Doll (2 Pcs)",
+        "price": "₹1299.00",
+        "images": [
+            "images/Babydoll/n3.png"
+        ],
+        "category": "Bags",
+        "description": "Elevate your eveningwear with this luxe satin and lace ensemble—where sensual design meets elegant sophistication. The flowing silhouette, delicate lace accents, and sultry slit create a look that effortlessly turns heads, whether you're at a dinner party or lounging in style. Available in a 3-piece set to complete your look with confidence and grace"
+    },
+     {
+        "id": 34,
+        "name": "Baby Doll (2 Pcs)",
+        "price": "₹1599.00",
+        "images": [
+            "images/Babydoll/n4.png"
+        ],
+        "category": "Bags",
+        "description": "Elevate your eveningwear with this luxe satin and lace ensemble—where sensual design meets elegant sophistication. The flowing silhouette, delicate lace accents, and sultry slit create a look that effortlessly turns heads, whether you're at a dinner party or lounging in style. Available in a 3-piece set to complete your look with confidence and grace"
+    },
+     {
+        "id": 35,
+        "name": "Baby Doll (2 Pcs)",
+        "price": "₹1599.00",
+        "images": [
+            "images/Babydoll/n5.png"
+        ],
+        "category": "Bags",
+        "description": "Elevate your eveningwear with this luxe satin and lace ensemble—where sensual design meets elegant sophistication. The flowing silhouette, delicate lace accents, and sultry slit create a look that effortlessly turns heads, whether you're at a dinner party or lounging in style. Available in a 3-piece set to complete your look with confidence and grace"
+    },
+      {
+        "id": 36,
+        "name": "Baby Doll (2 Pcs)",
+        "price": "₹1599.00",
+        "images": [
+            "images/Babydoll/n6.png"
+        ],
+        "category": "Bags",
+        "description": "Elevate your eveningwear with this luxe satin and lace ensemble—where sensual design meets elegant sophistication. The flowing silhouette, delicate lace accents, and sultry slit create a look that effortlessly turns heads, whether you're at a dinner party or lounging in style. Available in a 3-piece set to complete your look with confidence and grace"
+    },
+     {
+        "id": 37,
+        "name": "Baby Doll (2 Pcs)",
+        "price": "₹1599.00",
+        "images": [
+            "images/Babydoll/n7.png"
+        ],
+        "category": "Bags",
+        "description": "Elevate your eveningwear with this luxe satin and lace ensemble—where sensual design meets elegant sophistication. The flowing silhouette, delicate lace accents, and sultry slit create a look that effortlessly turns heads, whether you're at a dinner party or lounging in style. Available in a 3-piece set to complete your look with confidence and grace"
+    },
+    {
+        "id": 32,
+        "name": "Desi Girl (Saree Shapewear)",
+        "price": "₹529.00",
+        "images": [
+            "images/l1.png"
+        ],
+        "category": "Woman",
+        "description": "Slip into understated allure with this 3-piece satin nightwear set—designed to wrap you in silky comfort and elegant charm. Featuring delicate lace trim and a flattering fit, it’s perfect for those intimate evenings or indulgent self-care nights. Refined yet effortlessly sensual, this set adds a touch of luxury to your nightly routine."
+    },
+    {
+        "id": 15,
+        "name": "Cotton Blue Printed Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c1.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+    {
+        "id": 16,
+        "name": "Cotton Onion Pink Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c2.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+    {
+        "id": 17,
+        "name": "Cotton Musted Printed Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c3.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+    {
+        "id": 18,
+        "name": "Cotton Onion Pink V-Neck Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c4.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+    {
+        "id": 19,
+        "name": "Cotton Purple Anarkali Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c5.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+    {
+        "id": 20,
+        "name": "Orange mirror Work Kurta set",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c6.png"
+        ],
+        "category": "Woman",
+        "isTrending":true,
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+    {
+        "id": 21,
+        "name": "COtton Mehroon V-Neck Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c7.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+    {
+        "id": 22,
+        "name": "Cotton Navy Blue V-Neck Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c8.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 221,
+        "name": "Cotton Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c9.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 222,
+        "name": "Cotton Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c10.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 223,
+        "name": "Cotton Onion Pink Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c11.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 224,
+        "name": "Cotton Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c12.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 225,
+        "name": "Cotton Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c13.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 226,
+        "name": "Cotton Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c14.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 227,
+        "name": "Cotton Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c15.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 228,
+        "name": "Cotton Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c16.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 229,
+        "name": "Cotton Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c17.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 230,
+        "name": "Cotton Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c18.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 231,
+        "name": "Cotton Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c19.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+      {
+        "id": 232,
+        "name": "Cotton Kurta",
+        "price": "₹999.00",
+        "images": [
+            "images/Kurtas/c20.png"
+        ],
+        "category": "Woman",
+        "description": "Celebrate comfort and culture with this timeless kurta—where effortless grace meets contemporary style. Designed with breathable fabric and flattering cuts, it’s ideal for everyday wear, festive gatherings, or workdays that call for both ease and elegance. A versatile essential in every modern wardrobe."
+    },
+    {
+        "id": 23,
+        "name": "Cord Set",
+        "price": "₹799.00",
+        "images": [
+            "images/CordSet/c1.png"
+        ],
+        "category": "Man",
+        "description": "Effortlessly stylish and endlessly versatile, this cord set brings together coordinated elegance with everyday comfort. Whether you're dressing up for brunch or winding down in laid-back luxury, the soft fabric and flattering silhouette make it a go-to choice for modern wear. Fashion that works as hard as you do—without breaking a sweat."
+    },
+    {
+        "id": 24,
+        "name": "Cord Set",
+        "price": "₹799.00",
+        "images": [
+            "images/CordSet/c2.png"
+        ],
+        "category": "Man",
+        "description": "Effortlessly stylish and endlessly versatile, this cord set brings together coordinated elegance with everyday comfort. Whether you're dressing up for brunch or winding down in laid-back luxury, the soft fabric and flattering silhouette make it a go-to choice for modern wear. Fashion that works as hard as you do—without breaking a sweat."
+    },
+    {
+        "id": 25,
+        "name": "Cord Set",
+        "price": "₹799.00",
+        "images": [
+            "images/CordSet/c3.png"
+        ],
+        "category": "Man",
+        "description": "Effortlessly stylish and endlessly versatile, this cord set brings together coordinated elegance with everyday comfort. Whether you're dressing up for brunch or winding down in laid-back luxury, the soft fabric and flattering silhouette make it a go-to choice for modern wear. Fashion that works as hard as you do—without breaking a sweat."
+    },
+        {
+        "id": 255,
+        "name": "Cord Set",
+        "price": "₹799.00",
+        "images": [
+            "images/CordSet/c4.png"
+        ],
+        "category": "Man",
+        "description": "Effortlessly stylish and endlessly versatile, this cord set brings together coordinated elegance with everyday comfort. Whether you're dressing up for brunch or winding down in laid-back luxury, the soft fabric and flattering silhouette make it a go-to choice for modern wear. Fashion that works as hard as you do—without breaking a sweat."
+    },
+   {
+  "id": 26,
+  "name": "Elegant Designer Blouse",
+  "price": "₹1299.00",
+"images": ["images/blouse/a.jpg"],
+  "category": "Jewelry",
+  "isTrending": true,
+  "description": "Channel timeless tradition with this intricately designed blouse—crafted in rich red hues with detailed embroidery and a flattering sweetheart neckline. The long sleeves and fitted waist add structure, while the vibrant patterns bring a regal touch to any ethnic ensemble. A perfect companion to elevate your saree or lehenga look."
+},
+
+    {
+        "id": 27,
+        "name": "Elegant Designer Blouse",
+        "price": "₹1299.00",
+        "images": [
+            "images/blouse/b.jpg"
+        ],
+        "category": "Jewelry",
+        "description": "Channel timeless tradition with this intricately designed blouse—crafted in rich red hues with detailed embroidery and a flattering sweetheart neckline. The long sleeves and fitted waist add structure, while the vibrant patterns bring a regal touch to any ethnic ensemble. A perfect companion to elevate your saree or lehenga look."
+    },
+    {
+        "id": 28,
+        "name": "Elegant Designer Blouse",
+        "price": "₹999.00",
+        "images": [
+            "images/blouse/c.jpg"
+        ],
+        "category": "Jewelry",
+        "description": "Channel timeless tradition with this intricately designed blouse—crafted in rich red hues with detailed embroidery and a flattering sweetheart neckline. The long sleeves and fitted waist add structure, while the vibrant patterns bring a regal touch to any ethnic ensemble. A perfect companion to elevate your saree or lehenga look."
+    },
+    {
+        "id": 29,
+        "name": "Elegant Designer Blouse",
+        "price": "₹1299.00",
+        "images": [
+            "images/blouse/d.jpg"
+        ],
+        "category": "Jewelry",
+        "description": "Channel timeless tradition with this intricately designed blouse—crafted in rich red hues with detailed embroidery and a flattering sweetheart neckline. The long sleeves and fitted waist add structure, while the vibrant patterns bring a regal touch to any ethnic ensemble. A perfect companion to elevate your saree or lehenga look."
+    },
+    {
+        "id": 30,
+        "name": "Elegant Designer Blouse",
+        "price": "₹799.00",
+        "images": [
+          "images/blouse/e.jpg"
+        ],
+        "category": "Jewelry",
+        "description": "Channel timeless tradition with this intricately designed blouse—crafted in rich red hues with detailed embroidery and a flattering sweetheart neckline. The long sleeves and fitted waist add structure, while the vibrant patterns bring a regal touch to any ethnic ensemble. A perfect companion to elevate your saree or lehenga look."
+    },
+    {
+        "id": 31,
+        "name": "Elegant Designer Blouse",
+        "price": "₹999.00",
+        "images": [
+            "images/blouse/f.jpg"
+        ],
+        "category": "Jewelry",
+        "description": "Channel timeless tradition with this intricately designed blouse—crafted in rich red hues with detailed embroidery and a flattering sweetheart neckline. The long sleeves and fitted waist add structure, while the vibrant patterns bring a regal touch to any ethnic ensemble. A perfect companion to elevate your saree or lehenga look."
+    }
+   
+   
+]
