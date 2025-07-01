@@ -791,9 +791,9 @@ body.showCart .cart-section{
 }
 
 .slide-content .text h2 {
-  font-size: clamp(20px, 5vw, 48px);
+  font-size: clamp(30px, 5vw, 48px);
   line-height: 1.2;
-  margin-bottom: 20px;
+  margin-bottom: 80px;
 }
 
 .slide-content .text a.shop-btn {
@@ -817,4 +817,30 @@ input[type=number]::-webkit-inner-spin-button {
 /* Firefox */
 input[type=number] {
     -moz-appearance: textfield;
+}
+
+@media (max-width: 1199px) {
+  .slide-content img {
+    max-height: 300px;
+    width: 100%;
+    position: relative;
+    height: 100%;
+  }
+  .slide-content {
+    width: 412px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+  }
+  .slide-content .text a.shop-btn {
+    margin-top: 20px;
+  }
+  .slider {
+    height: 300px !important;
+  }
+  .slider .slide-content {
+    height: 300px !important;
+    padding: 0 !important;
+  }
 }
