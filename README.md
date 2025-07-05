@@ -23,9 +23,12 @@ Welcome to the E-Commerce platform — a full-featured, responsive online shoppi
 ### Frontend:
 - HTML5, CSS3, JavaScript
 
+- Home Page
+
 ![image](https://github.com/user-attachments/assets/bb6f9b59-1421-41a3-8b2b-29600bdf6395)
 
 💡 Future Improvements
+
 🧠 AI-based product recommendations
 
 📱 Mobile app integration
